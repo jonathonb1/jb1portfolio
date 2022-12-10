@@ -14,10 +14,10 @@ function AboutMe() {
             <div className="intro">
               <h1>
                 {" "}
-                What is <span className="only-cooks"> OnlyCooks </span>?{" "}
+                {/* What is <span className="only-cooks"> OnlyCooks </span>?{" "} */}
               </h1>
               <div className="my-2">
-                <p>
+                {/* <p>
                   Only Cooks is a social platform where you can store your most
                   treasured recipes privately or share with friends. If you are
                   looking for a new and cool recipe to impress your loved ones,
@@ -28,7 +28,7 @@ function AboutMe() {
                 <img
                   src={Illustration}
                   alt="two cooks"
-                  className="justify-content-md-center"
+                  className="justify-content-md-center" */}
                 />
               </div>
             </div>

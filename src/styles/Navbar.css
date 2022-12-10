@@ -1,7 +1,7 @@
 .navbar {
   width: 100%;
   height: 100px;
-  background: #f3f3f3;
+  background: #5c5b62;
 }
 
 .links {
@@ -11,17 +11,19 @@
   align-items: center;
   justify-content: space-around;
   color: rgb(228, 150, 197);
+  font-family: Inconsolata;
 }
 
 .logo img {
   height: 80px;
+  position: inherit;
 }
 
 .navbar a {
-  color: brown;
+  color: #c1a690;
   text-decoration: none;
   margin: 15px;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .toggleButton {
