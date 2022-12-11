@@ -1,6 +1,6 @@
 {
+  "homepage": "http://jonathonb1.github.io/jb1portfolio",
   "name": "jb1portfolio",
-  "homepage": "http://jonathonb1.github.io/jb1portfolio"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,7 +27,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  
   },
   "eslintConfig": {
     "extends": [
