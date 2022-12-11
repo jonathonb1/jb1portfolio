@@ -8,7 +8,7 @@ function AboutMe() {
   return (
     <div className="home">
       <div className="intro">
-        <h1>
+        <h1 className="intro1">
           Who <span className="heading"> am I </span>?{" "}
         </h1>
         <div className="my-2">
@@ -21,7 +21,7 @@ function AboutMe() {
       </div>
       <div className="skills">
         <h1>
-          S<span className="heading">kills</span>
+          S<span className="heading">kills:</span>
         </h1>
         <ol className="list">
           <li className="item">
@@ -30,11 +30,11 @@ function AboutMe() {
           </li>
           <li className="item">
             <h2>Back-End</h2>
-            <span></span>
+            <span>NodeJS, ExpressJS, GraphQL, ApolloSever, MySQL, MongoDB</span>
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span></span>
+            <span>JavaScript, TypeScript</span>
           </li>
         </ol>
       </div>
