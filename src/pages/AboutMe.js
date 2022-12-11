@@ -22,7 +22,7 @@ function AboutMe() {
         </div>
         <div className="my-2">
           <p>
-            My name is Jonathon and am a software developer who is new in this
+            My name is Jonathon. I am a software developer who is new in this
             space. I enjoy the process of learning and creating things that dont
             exist! Below are my list of my growing skills. Thank you for
             visiting!!!
