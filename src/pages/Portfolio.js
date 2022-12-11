@@ -1,12 +1,22 @@
 import React from "react";
-import "../styles/Navbar.css";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-// import NoteAddIcon from '@mui/icons-material/NoteAdd';
+import Runbuddy from "../assets/runbuddy.jpg";
 
 function Portfolio() {
-  return <div className="dashboard">test</div>;
+  return (
+    <div>
+      <section>
+        <div class="projlink">
+          <a href="https://jonathonb1.github.io/run-buddy/">
+            <img
+              src={Runbuddy}
+              alt="Its me"
+              className="justify-content-md-center"
+            />
+          </a>
+        </div>
+      </section>
+    </div>
+  );
 }
 
 export default Portfolio;

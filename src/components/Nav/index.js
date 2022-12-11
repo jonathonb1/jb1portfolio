@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import ReorderIcon from "@material-ui/icons/Reorder";
-import Logo from "../../assets/name.png";
 
 function Nav() {
   const [expandNavBar, setExpandNavBar] = useState(false);
@@ -25,9 +24,6 @@ function Nav() {
       </div>
 
       <div className="links">
-        <div className="logo">
-          <img src={Logo} alt="company logo" />
-        </div>
         <Link to="/"> About Me </Link>
         <Link to="/portfolio"> Portfolio </Link>
         <Link to="/contact"> Contact </Link>

@@ -94,3 +94,8 @@
     flex-direction: row;
   }
 }
+
+.logo {
+  position: static;
+  display: none;
+}
