@@ -6,8 +6,12 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <GithubIcon />
-        <LinkedInIcon />
+        <a href="https://github.com/jonathonb1">
+          <GithubIcon />
+        </a>
+        <a href="https://www.linkedin.com/in/jonathon-b-20417626/">
+          <LinkedInIcon />
+        </a>
       </div>
       <p> &copy; 2022 Made with love by Jonathon Biala</p>
     </div>
