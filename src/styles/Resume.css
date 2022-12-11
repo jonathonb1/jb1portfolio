@@ -1,0 +1,22 @@
+.resume {
+  color: black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.downloadlink {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
+.download-text {
+  background-color: white;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  margin-right: 40px;
+}
