@@ -94,7 +94,7 @@ function Portfolio() {
           </div>
         </div>
         <div className="projlink">
-          <a href="https://pure-ocean-13235.herokuapp.com/">
+          <a href="https://onlycooks.herokuapp.com/">
             <img
               src={Onlycooks}
               alt="pet finder application"
