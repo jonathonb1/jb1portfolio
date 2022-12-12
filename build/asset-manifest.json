@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jb1portfolio/static/css/main.82f82e38.css",
-    "main.js": "/jb1portfolio/static/js/main.3988b7c2.js",
+    "main.css": "/jb1portfolio/static/css/main.6e7a5d1b.css",
+    "main.js": "/jb1portfolio/static/js/main.637bf289.js",
     "static/js/787.dbbc8d9a.chunk.js": "/jb1portfolio/static/js/787.dbbc8d9a.chunk.js",
     "static/media/runbuddy.jpg": "/jb1portfolio/static/media/runbuddy.08659053267452f29cd6.jpg",
     "static/media/feddit.png": "/jb1portfolio/static/media/feddit.e926834fececb4979caa.png",
@@ -10,12 +10,12 @@
     "static/media/WeatherDB.png": "/jb1portfolio/static/media/WeatherDB.af6df2a3d76b8ad65c7a.png",
     "static/media/JonathonBialaResume.pdf": "/jb1portfolio/static/media/JonathonBialaResume.e9ea434c40f6e271fd39.pdf",
     "index.html": "/jb1portfolio/index.html",
-    "main.82f82e38.css.map": "/jb1portfolio/static/css/main.82f82e38.css.map",
-    "main.3988b7c2.js.map": "/jb1portfolio/static/js/main.3988b7c2.js.map",
+    "main.6e7a5d1b.css.map": "/jb1portfolio/static/css/main.6e7a5d1b.css.map",
+    "main.637bf289.js.map": "/jb1portfolio/static/js/main.637bf289.js.map",
     "787.dbbc8d9a.chunk.js.map": "/jb1portfolio/static/js/787.dbbc8d9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82f82e38.css",
-    "static/js/main.3988b7c2.js"
+    "static/css/main.6e7a5d1b.css",
+    "static/js/main.637bf289.js"
   ]
 }
