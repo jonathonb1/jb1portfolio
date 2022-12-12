@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/jb1portfolio/static/css/main.6e7a5d1b.css",
-    "main.js": "/jb1portfolio/static/js/main.637bf289.js",
+    "main.js": "/jb1portfolio/static/js/main.5f8a4ac2.js",
     "static/js/787.dbbc8d9a.chunk.js": "/jb1portfolio/static/js/787.dbbc8d9a.chunk.js",
     "static/media/runbuddy.jpg": "/jb1portfolio/static/media/runbuddy.08659053267452f29cd6.jpg",
     "static/media/feddit.png": "/jb1portfolio/static/media/feddit.e926834fececb4979caa.png",
     "static/media/me.jpg": "/jb1portfolio/static/media/me.593c4c9508ea49c64a3d.jpg",
     "static/media/p2h.png": "/jb1portfolio/static/media/p2h.6545b86beb028ebef8d1.png",
+    "static/media/onlycooks.png": "/jb1portfolio/static/media/onlycooks.e9b494ea456f9a86776d.png",
     "static/media/WeatherDB.png": "/jb1portfolio/static/media/WeatherDB.af6df2a3d76b8ad65c7a.png",
     "static/media/JonathonBialaResume.pdf": "/jb1portfolio/static/media/JonathonBialaResume.e9ea434c40f6e271fd39.pdf",
     "index.html": "/jb1portfolio/index.html",
     "main.6e7a5d1b.css.map": "/jb1portfolio/static/css/main.6e7a5d1b.css.map",
-    "main.637bf289.js.map": "/jb1portfolio/static/js/main.637bf289.js.map",
+    "main.5f8a4ac2.js.map": "/jb1portfolio/static/js/main.5f8a4ac2.js.map",
     "787.dbbc8d9a.chunk.js.map": "/jb1portfolio/static/js/787.dbbc8d9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e7a5d1b.css",
-    "static/js/main.637bf289.js"
+    "static/js/main.5f8a4ac2.js"
   ]
 }
