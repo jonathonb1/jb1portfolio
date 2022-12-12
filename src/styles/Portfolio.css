@@ -1,7 +1,6 @@
 .projlink {
   display: flex;
   justify-content: center;
-  justify-content: space-evenly;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -12,4 +11,16 @@ hr {
 
 ul {
   color: #c1a690;
+}
+
+.works {
+  display: flex;
+  justify-content: center;
+  height: 300px;
+  width: 400px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
 }

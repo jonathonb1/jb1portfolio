@@ -10,7 +10,7 @@ function Resume() {
     <div>
       <section className="resume">
         <div className="flex-row">
-          <h2 className="section-title primary-border">My Resume</h2>
+          <h3 className="section-title primary-border">My Resume</h3>
         </div>
       </section>
       <div className="flex-row">
@@ -21,7 +21,28 @@ function Resume() {
                 <BsCloudDownload />
               </div>
             </a>
-            <p>Click the link above to download my resume</p>
+            <p>Click the icon above to download my resume</p>
+          </div>
+          <div className="skills">
+            <div>
+              <ol className="list">
+                <li className="item">
+                  <h1>My Skills:</h1>
+                  <h2>Front-End</h2>
+                  <span>HTML, CSS, BootStrap, Bulma, ReactJS, Git, NPM </span>
+                </li>
+                <li className="item">
+                  <h2>Back-End</h2>
+                  <span>
+                    NodeJS, ExpressJS, GraphQL, ApolloSever, MySQL, MongoDB
+                  </span>
+                </li>
+                <li className="item">
+                  <h2>Languages</h2>
+                  <span>JavaScript, TypeScript</span>
+                </li>
+              </ol>
+            </div>
           </div>
         </div>
       </div>

@@ -29,26 +29,6 @@ function AboutMe() {
           </p>
         </div>
       </div>
-      <div className="skills">
-        <div>
-          <ol className="list">
-            <li className="item">
-              <h2>Front-End</h2>
-              <span>HTML, CSS, BootStrap, Bulma, ReactJS, Git, NPM </span>
-            </li>
-            <li className="item">
-              <h2>Back-End</h2>
-              <span>
-                NodeJS, ExpressJS, GraphQL, ApolloSever, MySQL, MongoDB
-              </span>
-            </li>
-            <li className="item">
-              <h2>Languages</h2>
-              <span>JavaScript, TypeScript</span>
-            </li>
-          </ol>
-        </div>
-      </div>
     </div>
   );
 }

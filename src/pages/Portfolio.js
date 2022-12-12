@@ -10,13 +10,11 @@ function Portfolio() {
     <div>
       <section>
         <div className="projlink">
-          <p>Run Buddy</p>
           <a href="https://jonathonb1.github.io/run-buddy/">
-            <img
-              src={Runbuddy}
-              alt="Its me"
-              className="justify-content-md-center"
-            />
+            <img src={Runbuddy} alt="Its me" className="works" />
+            <a href="https://github.com/jonathonb1/run-buddy" className="link">
+              Run Buddy Repository
+            </a>
             <hr />
           </a>
           <div>
@@ -29,13 +27,14 @@ function Portfolio() {
           </div>
         </div>
         <div className="projlink">
-          <p>Weather Dashboard</p>
           <a href="https://jonathonb1.github.io/weather-dashboard/">
-            <img
-              src={Weather}
-              alt="weather application"
-              className="justify-content-md-center"
-            />
+            <img src={Weather} alt="weather application" className="works" />
+            <a
+              href="https://github.com/jonathonb1/weather-dashboard"
+              className="link"
+            >
+              Weather Dashboard Repository
+            </a>
             <hr />
           </a>
           <div>
@@ -49,13 +48,14 @@ function Portfolio() {
           </div>
         </div>
         <div className="projlink">
-          <p>PawsToHome</p>
           <a href="http://ryanpjhickey.github.io/Paws-to-Home">
-            <img
-              src={Pets}
-              alt="pet finder application"
-              className="justify-content-md-center"
-            />
+            <img src={Pets} alt="pet finder application" className="works" />
+            <a
+              href="https://github.com/jonathonb1/Paws-to-Home"
+              className="link"
+            >
+              Paws-To-Home Respository
+            </a>
             <hr />
           </a>
           <div>
@@ -71,13 +71,11 @@ function Portfolio() {
           </div>
         </div>
         <div className="projlink">
-          <p>Feddit</p>
           <a href="https://salty-citadel-37203.herokuapp.com/">
-            <img
-              src={Feddit}
-              alt="pet finder application"
-              className="justify-content-md-center"
-            />
+            <img src={Feddit} alt="pet finder application" className="works" />
+            <a href="https://github.com/jonathonb1/feddit" className="link">
+              Feddit Repository
+            </a>
             <hr />
           </a>
           <div>
