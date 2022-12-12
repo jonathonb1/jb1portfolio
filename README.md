@@ -6,7 +6,6 @@
 - [Technologies](#Technologies)
 - [Links](#Links)
 - [Screenshots](#Screenshots)
-- [User Instructions](#User-Instructions)
 - [Contributors](#Contributors)
 - [Quesitons](#Questions)
 
@@ -14,7 +13,7 @@
 
 ## Description
 
-This is my new portfolio using React!
+This is my new portfolio using React! I have a huge appreation for react and react-bootstrap! I feel React helps us to make clean UIs in a simple way!
 
 ---
 
