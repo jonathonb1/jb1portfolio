@@ -4,6 +4,7 @@ import Runbuddy from "../assets/runbuddy.jpg";
 import Weather from "../assets/WeatherDB.png";
 import Pets from "../assets/p2h.png";
 import Feddit from "../assets/feddit.png";
+import Onlycooks from "../assets/onlycooks.png";
 
 function Portfolio() {
   return (
@@ -89,6 +90,33 @@ function Portfolio() {
               <li>Sequelize</li>
               <li>NodeJS</li>
               <li>ExpressJS</li>
+            </ul>
+          </div>
+        </div>
+        <div className="projlink">
+          <a href="https://pure-ocean-13235.herokuapp.com/">
+            <img
+              src={Onlycooks}
+              alt="pet finder application"
+              className="works"
+            />
+            <a href="https://github.com/zuetesei/cook-book" className="link">
+              Onlycooks Repository
+            </a>
+            <hr />
+          </a>
+          <div>
+            <ul>
+              {" "}
+              Made with:
+              <li>html</li>
+              <li>css</li>
+              <li>JavaScrip</li>
+              <li>NodeJS</li>
+              <li>ExpressJS</li>
+              <li>React</li>
+              <li>NPM</li>
+              <li>Heroku</li>
             </ul>
           </div>
         </div>
