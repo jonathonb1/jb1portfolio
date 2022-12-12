@@ -32,6 +32,7 @@ This is my new portfolio using React!
 ## Links
 
 https://github.com/jonathonb1/jb1portfolio - respository
+https://jonathonb1.github.io/ - gh page
 
 ---
 
